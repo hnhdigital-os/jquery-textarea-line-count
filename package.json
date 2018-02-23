@@ -1,0 +1,28 @@
+{
+  "name"        : "jquery-textarea-line-count",
+  "main"        : "jquery-textarea-line-count.js",
+  "version"     : "1.0.0",
+  "title"       : "jQuery textarea line count plugin",
+  "description" : "Provides the ability to count the visual lines of a textarea",
+  "keywords"    : ["jquery"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnhdigital-os/jquery-textarea-line-count.git"
+  },
+  "author" : {
+    "name"  : "Rocco Howard",
+    "email" : "rocco@hnh.digital",
+    "url"   : "https://hnh.digital"
+  },
+
+  "dependencies" : {
+    "jquery" : ">= 1.7"
+  },
+
+  "licenses" : [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
